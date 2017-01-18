@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bombblaster-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bombblaster/target/bombblaster-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
